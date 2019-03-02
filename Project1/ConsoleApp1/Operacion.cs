@@ -25,5 +25,8 @@ namespace ConsoleApp1
 
         public virtual int sumar() { return 0; }
         public virtual int restar() { return 0; }
+        public virtual int multiplicar() { return 0; }
+        public virtual double dividir() { return 0; }
+
     }
 }

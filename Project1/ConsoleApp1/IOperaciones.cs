@@ -8,8 +8,10 @@ namespace ConsoleApp1
 {
     interface IOperaciones
     {
-       int restar();
-       int sumar();
+        int restar();
+        int sumar();
+        int multiplicar();
+        double dividir();
 
     }
 }
