@@ -5,3 +5,10 @@ C:\Users\Nicolas\source\repos\Project1\ConsoleApp1\obj\Debug\CursoCSharp.csprojA
 C:\Users\Nicolas\source\repos\Project1\ConsoleApp1\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
 C:\Users\Nicolas\source\repos\Project1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Nicolas\source\repos\Project1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Nicolas\Documents\CSharpBasico\Project1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Nicolas\Documents\CSharpBasico\Project1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Nicolas\Documents\CSharpBasico\Project1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Nicolas\Documents\CSharpBasico\Project1\ConsoleApp1\obj\Debug\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Nicolas\Documents\CSharpBasico\Project1\ConsoleApp1\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\CSharpBasico\Project1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Nicolas\Documents\CSharpBasico\Project1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
