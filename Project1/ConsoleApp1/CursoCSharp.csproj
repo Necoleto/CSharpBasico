@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array01.cs" />
     <Compile Include="Operaciones\Division.cs" />
-    <Compile Include="IOperaciones.cs" />
+    <Compile Include="Operaciones\IOperaciones.cs" />
     <Compile Include="Operaciones\Multiplicacion.cs" />
-    <Compile Include="Operacion.cs" />
+    <Compile Include="Operaciones\Operacion.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Operaciones\Resta.cs" />
