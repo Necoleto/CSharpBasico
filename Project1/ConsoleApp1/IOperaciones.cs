@@ -11,7 +11,7 @@ namespace ConsoleApp1
         int restar();
         int sumar();
         int multiplicar();
-        double dividir();
+        decimal dividir();
 
     }
 }
